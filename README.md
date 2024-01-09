@@ -2,7 +2,7 @@
 
 Web application to demonstrate React framework with TypeScript. Includes a display of sample products and functionality of a shopping cart whereby you can add, remove, and change quantity of the sample products.
 
-Deployed Site: TBD
+Deployed Site: https://connorxcx-acmeshoppingcart.netlify.app
 
 References:
 
