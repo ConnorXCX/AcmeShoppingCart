@@ -7,12 +7,10 @@ import { useState } from "react";
 function App() {
   const [viewCart, setViewCart] = useState(false);
 
-  const pageContent = viewCart ? <Cart /> : <ProductList />;
-
   return (
     <>
       <Header viewCart={viewCart} setViewCart={setViewCart} />
-      {pageContent}
+      {viewCart ? <Cart /> : <ProductList />}
       <Footer viewCart={viewCart} />
     </>
   );
