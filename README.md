@@ -4,6 +4,10 @@ Web application to demonstrate React.js with TypeScript. Includes a display of s
 
 Deployed Site: [ConnorXCX.github.io/AcmeShoppingCart](https://connorxcx.github.io/AcmeShoppingCart/)
 
+References:
+
+1. [TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://youtu.be/gieEQFIfgYc?si=YZkxvwBCo0H7lH1k)
+
 Commands to Run Locally:
 
 1. `npm install`
@@ -20,7 +24,3 @@ How to Configure GitHub Pages Dependency:
 Command to Deploy to GitHub Pages:
 
 1. `npm run deploy`
-
-References:
-
-1. [TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://youtu.be/gieEQFIfgYc?si=YZkxvwBCo0H7lH1k)
